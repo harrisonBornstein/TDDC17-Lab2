@@ -3,5 +3,15 @@
     "location": "/Users/harrib/Downloads/lab2_workspace 2/lab2_part1/src",
     "status": "UNRESOLVED",
     "error": "No class path info available for \u0027/Users/harrib/Downloads/lab2_workspace 2/lab2_part1/src\u0027. Skipped."
+  },
+  "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/harrib/TDDC17-Lab2/lab2_workspace 2/lab2_part1/src": {
+    "location": "/Users/harrib/TDDC17-Lab2/lab2_workspace 2/lab2_part1/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/harrib/TDDC17-Lab2/lab2_workspace 2/lab2_part1/src\u0027. Skipped."
   }
 }
